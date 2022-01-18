@@ -1,0 +1,39 @@
+
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    border-color: #5f9341;
+}
+
+button{
+    background-color: #5f9341;
+    margin-top: 10px;
+    color: white;
+    font-weight: bold;
+    height: 40;
+    width: 120;
+}
+
+#del{
+    background-color: white;
+    color: #5f9341;
+    border-color: #5f9341;
+}
+
+ul{
+text-align: left;
+list-style: none;
+padding-left:  0px;
+}
+
+
+li a{
+    color: #5f9341;
+}
